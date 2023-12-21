@@ -6,16 +6,16 @@ This project simulates heat convection in a two-dimensional object using a numer
 ## Key Parameters
 
 ### Initial Temperatures:
-T0: Initial temperature of the object
-T1: Bottom temperature
-T2: Left temperature
-T3: Top temperature
-T4: Right temperature
+T0: Initial temperature of the object<br>
+T1: Bottom temperature<br>
+T2: Left temperature<br>
+T3: Top temperature<br>
+T4: Right temperature<br>
 
 ### Grid Characteristics:
-delx: Grid spacing in the x-direction
-dely: Grid spacing in the y-direction
-delt: Time step for the simulation
+delx: Grid spacing in the x-direction<br>
+dely: Grid spacing in the y-direction<br>
+delt: Time step for the simulation<br>
 
 ### Material Properties:
 ceta: Material property influencing temperature change
